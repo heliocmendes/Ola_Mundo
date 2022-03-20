@@ -64,6 +64,3 @@ programa
 }
 ```
 Inserindo emoji ✋
-
----
-Linha inserida diretamento no VS Code
