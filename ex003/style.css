@@ -1,0 +1,20 @@
+#cabecalho{
+    background-color: blue;
+    color: wheat;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+}
+.conteudo{
+    background-color: aqua;
+    color: white;
+    height: 30px;
+}
+#destaque{
+    font-weight: bold;
+    color: red;
+}
+#rodape{
+    background-color: green;
+    margin-bottom: 20px;
+}
